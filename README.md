@@ -17,6 +17,9 @@ This project explores salary trends in data science roles using Microsoft Excel.
 - Job platform with the highest representation in the dataset
 - Job count
 - Salary comparisons by job title, country, and employment type
+- ## Dashboard Preview
+
+![Data Science Salary Dashboard](salary-dashboard.png)
 
 ## Key Learnings
 - Organizing and presenting structured data
